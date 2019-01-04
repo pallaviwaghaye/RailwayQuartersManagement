@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navigationHome"
+            android:checked="true"
+            android:icon="@drawable/home1"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/navigationRaiseComplaint"
+            android:checked="false"
+            android:icon="@drawable/swachata_kendra"
+            android:title="Raise Complaint" />
+
+        <item
+            android:id="@+id/navigationContactUs"
+            android:checked="false"
+            android:icon="@drawable/contact_us"
+            android:title="Contact us" />
+
+
+        <item
+            android:id="@+id/navigationLogout"
+            android:checked="false"
+            android:icon="@drawable/logout1"
+            android:title="Logout" />
+
+
+    </group>
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+
+    <string-array name="colony">
+        <item>Select colony</item>
+        <item>Mount Road</item>
+        <item>Ajni</item>
+
+    </string-array>
+
+    <string-array name="stations">
+        <item>Select station</item>
+        <item>Itwari</item>
+        <item>Kalumna</item>
+        <item>Kamptee</item>
+        <item>Kanhan</item>
+        <item>Salwa</item>
+        <item>Tharsa</item>
+        <item>Rewral</item>
+        <item>Bhandara road</item>
+        <item>Mundikota</item>
+        <item>Umred</item>
+        <item>Kuhi</item>
+    </string-array>
+
+    <string-array name="platforms">
+        <item>Select platform</item>
+        <item>Platform 1</item>
+        <item>Platform 2</item>
+        <item>Platform 3</item>
+        <item>Platform 4</item>
+        <item>Platform 5</item>
+        <item>Platform 6</item>
+
+        <item></item>
+    </string-array>
+</resources>
